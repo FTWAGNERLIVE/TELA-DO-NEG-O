@@ -1,0 +1,17 @@
+div{
+    position: absolute;
+    top: 350px; left: 400px;
+
+}
+body{
+    color: blueviolet;
+    background-color: black;
+}
+image{
+    position: relative; 
+
+}
+h1{
+    position: relative;
+    left: 350px;
+}
